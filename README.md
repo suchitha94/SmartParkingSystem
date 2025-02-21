@@ -60,11 +60,7 @@ Parking Slots (id, slot_number, status, type, price_per_hour)
 
 Bookings (id, user_id, slot_id, start_time, end_time, total_fee)
 
-API Endpoints
 
-Method
-
-Endpoint
 
 
 
